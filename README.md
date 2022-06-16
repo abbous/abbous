@@ -1,8 +1,11 @@
 
-<img align="left" height="50%" width="47%" 
-     src="https://github-readme-stats.vercel.app/api?username=abbous&show_icons=true&theme=radical&count_private=true" />
+<img align="left"  width="47%" 
+     src="https://github-readme-stats.vercel.app/api?username=abbous&show_icons=true&theme=radical&count_private=true" /> 
 
-<img align="left" height="50%" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbous&layout=compact" />
+<img align="left" style="margin-bottom: 30px;" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbous&layout=compact" /> 
+
+<br><br/>
+
 
 <img align="left" alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
